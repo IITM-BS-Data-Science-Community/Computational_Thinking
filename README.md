@@ -2,6 +2,6 @@
 Full slides and resources for CT
 
 Creator : 
-Ashish Khattri /n
-Anshu Rajbhar 
+Ashish Khattri ,  
+Anshu Rajbhar , <br>
 source : IITM BS
